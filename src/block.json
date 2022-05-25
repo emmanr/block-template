@@ -6,7 +6,7 @@
 	"title": "Block Boilerplate",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example static block scaffolded with Create Block tool.",
+	"description": "A boilerplate for creating custom block.",
 	"supports": {
 		"html": false
 	},
